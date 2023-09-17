@@ -1,0 +1,21 @@
+description: Thermoelectric generator power supply designed to use in low power typically
+  wireless devices which should work for longtime without batteries.
+github_branch: THERMOGEN01A
+github_description: Thermoelectric generator power supply designed to use in low power
+  typically wireless devices which should work for longtime without batteries.
+github_repo: THERMOGEN01
+github_url: https://github.com/mlab-modules/THERMOGEN01
+homepage: false
+images:
+- doc/img/THERMOGEN01A_top_small.jpg
+- cad/Heat_reservoir.png
+- doc/src/Heat_reservoir_sliced.png
+- doc/src/Heat_reservoir_bottom.png
+- doc/src/Heat_reservoir_top.png
+- doc/src/Heat_reservoir_sliced_bottom.png
+- doc/img/THERMOGEN01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: THERMOGEN01
+updated: '2023-09-17T11:30:29.511299+00:00'
